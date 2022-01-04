@@ -1,3 +1,0 @@
-EmployeeID	FirstName	LastName	PhoneNumber
-EIN03	JERRY	DAY	333-444-5555
-EIN04	TOM	DAY	666-777-8888
